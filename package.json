@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "handlebars": "^4.7.6",
+    "handlebars-loader": "^1.7.1",
     "jquery": "^3.5.1"
   }
 }

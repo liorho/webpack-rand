@@ -1,4 +1,7 @@
-
+import Renderer from './Renderer'
+import APIManager from './APIManager'
+import './style.css'
+import 'jquery'
 
 const renderer = new Renderer()
 const apiManager = new APIManager()
