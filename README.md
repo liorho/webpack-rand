@@ -1,3 +1,3 @@
 # Learning Webpack
 
-and that's it
+and that's all
